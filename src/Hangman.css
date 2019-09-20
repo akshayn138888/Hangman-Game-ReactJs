@@ -56,3 +56,11 @@
   color: #eeeeee;
   box-shadow: 0 6px #9e9e9e;
 }
+#reset{
+  width: auto; 
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+
+
+}
